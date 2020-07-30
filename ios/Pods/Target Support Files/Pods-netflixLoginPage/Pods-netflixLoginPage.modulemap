@@ -1,0 +1,6 @@
+module Pods_netflixLoginPage {
+  umbrella header "Pods-netflixLoginPage-umbrella.h"
+
+  export *
+  module * { export * }
+}
